@@ -1,7 +1,7 @@
 # FAQs
 ## Answers to Your Burning Questions: Morpheus FAQ
 
-## [WHITEPAPER](https://github.com/MorpheusAIs/Morpheus/blob/main/!KEYDOCS%20README%20FIRST!/2.WhitePaper.md) TL;DR
+## [WHITEPAPER](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/WhitePaper.md) TL;DR
 1) Access to AI has become fundamental to modern life.
 2) Large centralized companies currently gatekeep access to AI, they actively restrict access & use censorship.
 3) Having a personal AI that is open source, decentralized, and permissionless fixes this.
@@ -10,7 +10,7 @@
 6) Morpheus uses crypto-based financial rails to reward AI & Smart Agent providers.
 7) Follow the white rabbit. Free your mind.
 
-## [FAIR LAUNCH](https://github.com/antonbosss/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Fair%20Launch.md)
+## [FAIR LAUNCH](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Fair%20Launch.md)
 1) There is no pre-mine, no token sale, no allocations, no VC investments, and no private sale. All earning of MOR rewards starts at the same time.
 2) Launch date is February 8th 2024 for Capital Providers and Code Providers Smart Contracts to move to Ethereum mainnet.
 3) Bootstrap period goes for 90 days, MOR tokens are only claimable on day 91 (~ May 9th).
@@ -28,7 +28,7 @@ Morpheus is a Decentralized AI network and local inference.
 Smart Agent is a term to describe a general purpose AI that can execute Smart Contracts on behalf of a user using LLM Transformer language that converts human language into actionable code for Web3 interactions using intent based abstractions.
 
 **Who are the founders?**  
-The anonymous authors of the paper are Morpheus, Trinity, and Neo. They published [the paper](https://github.com/antonbosss/Docs/blob/main/!KEYDOCS%20README%20FIRST!/YellowPaper.md) September 2nd 2023. 
+The anonymous authors of the paper are Morpheus, Trinity, and Neo. They published [the paper](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/YellowPaper.md) September 2nd 2023.
 
 **Who is on the team?**  
 There is no formal team, company or Foundation. Morpheus is fully decentralized and community driven.
@@ -50,7 +50,7 @@ If your skills are outside of the scope of these two channels please put your sk
 You don't need anyone's permission to talk about Morpheus or add value as a Contributor. It's all built publicly.
 
 **Where can I get more information about Morpheus?**  
-This FAQ is the best start and Morpheus [Whitepaper](https://github.com/antonbosss/Docs/blob/main/!KEYDOCS%20README%20FIRST!/WhitePaper.md) next.
+This FAQ is the best start, and Morpheus [Whitepaper](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/WhitePaper.md) next.
 
 
 ## MOR TOKEN AND LIQUIDITY
@@ -88,7 +88,7 @@ Phase 4: Adding More Chains / Yield Types
 Uniswap on Arbitrum chain with wETH/MOR pair.
 
 **How will the initial liquidity be created?**   
-51,444 MOR tokens by day 90 dedicated to the protection fund and leveraged for bootstrapping purpose will be paired with yield generated from deposited stETH and put into AMM liquidity pool.
+51,444 MOR tokens by day 90 dedicated to the protection fund and leveraged for bootstrapping purposes will be paired with yield generated from deposited stETH and put into the AMM liquidity pool.
 
 **What is the initial price of the MOR token? What will be the marketсap/FDV of the MOR token?**
 It’s unpredictable as it entirely depends on the volume of stETH deposited during the bootstrap period. 
@@ -105,15 +105,15 @@ This period will ensure enough MOR tokens are ready for circulation to fulfill t
 90 days, starting from when the Capital and Code Providers contract begins calculating rewards until those MOR tokens are claimable/sendable by users (~ May 8th). 
 
 **Can I withdraw stETH during bootstrapping?**  
-Yes. You can withdraw stETH after 7 days initial lockup.
+Yes. You can withdraw stETH after 7 days of initial lockup.
 
 **Is deposited stETH locked?**  
-It is not locked. You are free to withdraw any time after 7 days.
+It is not locked. You are free to withdraw at any time after 7 days.
 
 **Why is there a 7 day lock up period?**  
-This measure was introduced in order to avoid people gaming the yield timing as protocol in fact rewards in advance from the moment you deposit, when yield is generated once a day.
+This measure was introduced to avoid people gaming the yield timing. Protocol, in fact, rewards in advance from the moment you deposit, when yield is generated once a day.
 
-**Can I claim MOR token during the bootstrapping period?**  
+**Can I claim the MOR token during the bootstrapping period?**  
 MOR token will be only claimable after the bootstrapping period on the 90th Day. 
 
 
@@ -122,7 +122,7 @@ MOR token will be only claimable after the bootstrapping period on the 90th Day.
 An onboarding process is described in the [Coder Guide](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Coder%20Guide.md)
 
 **What are the requirements to code contributors?**  
-There are Code Contributor Best Practices on [GitHub](https://github.com/MorpheusAIs/Morpheus/blob/main/!KEYDOCS%20README%20FIRST!/8.Code%20Contributor%20Best%20Practices.md).
+There are Code Contributor Best Practices on [GitHub](hhttps://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Contributor%20Best%20Practices.md).
 
 **How do I get in touch with other builders for collaborations?**  
 The Accelerator Corner is your go to
@@ -150,7 +150,7 @@ Staking for stETH starts on Feb 8th
 There is no cut off date. Emissions are a built-in feature of the protocol and will continue for at least 16 years of the first epoch.
 
 **How long should I deposit stETH?**  
-It’s completely up to you. You can deposit for days, weeks, months or years. While your stETH deposited and contributes yield, it earns you MOR rewards.
+It’s completely up to you. You can deposit for days, weeks, months, or years. While your stETH deposited and contributes yield, it earns you MOR rewards.
 
 **Should I withdraw stETH after 90 days?**  
 The choice is yours, you can keep stETH deposited and continue to receive MOR rewards.
@@ -180,7 +180,7 @@ It is a dynamic value that depends on the ratio of your contribution to the tota
 You can’t calculate APY until MOR has a price.
 
 **What are the risks of providing capital?**  
-There are always risks with smart contracts like bugs or vulnerabilities. To ensure a high level of security, the contracts have undergone multiple levels of audits, including community audit, cybersecurity company audit, as well as a public bug bounty campaign. Security reports are publicly available on GitHub. That's also why the Protection Fund 4% of emissions exists.
+There are always risks with smart contracts like bugs or vulnerabilities. To ensure a high level of security, the contracts have undergone multiple levels of audits, including a community audit, a cybersecurity company audit, as well as a public bug bounty campaign. Security reports are publicly available on GitHub. That's also why the Protection Fund 4% of emissions exists.
 
 
 ## COMMUNITY
@@ -190,7 +190,7 @@ Community is for Front End and UI Developers as well as Smart Agents.
 
 ## COMPUTE AND NODE RUNNING
 **What is the Morpheus node?**  
-Currently Morpheus node is the local LLM, but will be evolving into the Node release by release, for people to be able to provide an inference to a MOR user.
+Currently, the Morpheus node is the local LLM, but it will evolve into the Node release by release so that people can provide inference to an MOR user.
 
 **Is running a node mandatory?**  
 A regular user will be able to use Morpheus without running a node and while running the node isn’t a strict requirement for Capital and Code providers, you won’t be able to provide Compute and Community services without one.
@@ -199,7 +199,7 @@ A regular user will be able to use Morpheus without running a node and while run
 There is no reward for running a Local inference at the moment, however, a full node will be rewarded when providing Morpheus Compute and Community functions.
 
 **How can I run the node?**  
-You need a Mac or PC with Linux Debian with 64gb storage, 16gb VRAM 16gb system RAM and 4CPU core, this a minimum requirement to ensure that there will be no issue on the system side and run most LLMs, follow steps from the guides located in the [readme](https://github.com/MorpheusAIs/Docs/blob/main/README.md) on GitHub. 
+You need a Mac or PC with Linux Debian with 64gb storage, 16gb VRAM 16gb system RAM and 4CPU core, this a minimum requirement to ensure that there will be no issue on the system side and run most LLMs, follow the steps from the guides located in the [readme](https://github.com/MorpheusAIs/Docs/blob/main/README.md) on GitHub. 
 
 **Can I run the node on Windows?**  
 Yes, by using Windows Subsystem for Linux (WSL). A guide located in the [readme](https://github.com/MorpheusAIs/Docs/blob/main/README.md) on GitHub.
